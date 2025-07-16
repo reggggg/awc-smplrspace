@@ -1,0 +1,431 @@
+[
+  {
+    "id": "a037221e-d911-46ea-8635-74d48a83a5c4",
+    "name": "booths",
+    "type": "polygon",
+    "assets": [
+      {
+        "id": "43f70b29-841c-4a1f-9dfe-498ec87f3695",
+        "name": "A08",
+        "levelIndex": 0,
+        "extras": {
+          "__lockMappingEdit": true
+        },
+        "coordinates": [
+          [
+            {
+              "x": 17.21,
+              "z": -2.05,
+              "levelIndex": 0
+            },
+            {
+              "x": 13.6,
+              "z": -2.05,
+              "levelIndex": 0
+            },
+            {
+              "x": 13.6,
+              "z": -16.22,
+              "levelIndex": 0
+            },
+            {
+              "x": 15.69,
+              "z": -16.22,
+              "levelIndex": 0
+            },
+            {
+              "x": 15.69,
+              "z": -12.594,
+              "levelIndex": 0
+            },
+            {
+              "x": 15.69,
+              "z": -12.51,
+              "levelIndex": 0
+            },
+            {
+              "x": 15.69,
+              "z": -12.434,
+              "levelIndex": 0
+            },
+            {
+              "x": 15.69,
+              "z": -8.816,
+              "levelIndex": 0
+            },
+            {
+              "x": 15.69,
+              "z": -8.74,
+              "levelIndex": 0
+            },
+            {
+              "x": 15.69,
+              "z": -8.656,
+              "levelIndex": 0
+            },
+            {
+              "x": 15.69,
+              "z": -4.98,
+              "levelIndex": 0
+            },
+            {
+              "x": 19.08,
+              "z": -4.98,
+              "levelIndex": 0
+            },
+            {
+              "x": 19.08,
+              "z": -3.75,
+              "levelIndex": 0
+            },
+            {
+              "x": 17.21,
+              "z": -3.75,
+              "levelIndex": 0
+            },
+            {
+              "x": 17.21,
+              "z": -2.05,
+              "levelIndex": 0
+            }
+          ]
+        ],
+        "layerType": "polygon",
+        "mapped": true
+      },
+      {
+        "id": "8aea707d-a0ab-4028-a78f-f0dd7c94a73c",
+        "name": "A07",
+        "levelIndex": 0,
+        "extras": {
+          "__lockMappingEdit": true
+        },
+        "coordinates": [
+          [
+            {
+              "x": 13.6,
+              "z": -20.5,
+              "levelIndex": 0
+            },
+            {
+              "x": 19.32,
+              "z": -20.5,
+              "levelIndex": 0
+            },
+            {
+              "x": 19.32,
+              "z": -16.22,
+              "levelIndex": 0
+            },
+            {
+              "x": 19.244,
+              "z": -16.22,
+              "levelIndex": 0
+            },
+            {
+              "x": 15.69,
+              "z": -16.22,
+              "levelIndex": 0
+            },
+            {
+              "x": 13.6,
+              "z": -16.22,
+              "levelIndex": 0
+            },
+            {
+              "x": 13.6,
+              "z": -20.5,
+              "levelIndex": 0
+            }
+          ]
+        ],
+        "layerType": "polygon",
+        "mapped": true
+      },
+      {
+        "id": "13fd6265-8e8b-4366-a385-89067c8a1bea",
+        "name": "A06",
+        "levelIndex": 0,
+        "extras": {
+          "__lockMappingEdit": true
+        },
+        "coordinates": [
+          [
+            {
+              "x": 20.46,
+              "z": -8.74,
+              "levelIndex": 0
+            },
+            {
+              "x": 20.46,
+              "z": -4.98,
+              "levelIndex": 0
+            },
+            {
+              "x": 19.08,
+              "z": -4.98,
+              "levelIndex": 0
+            },
+            {
+              "x": 15.69,
+              "z": -4.98,
+              "levelIndex": 0
+            },
+            {
+              "x": 15.69,
+              "z": -8.656,
+              "levelIndex": 0
+            },
+            {
+              "x": 15.69,
+              "z": -8.74,
+              "levelIndex": 0
+            },
+            {
+              "x": 20.46,
+              "z": -8.74,
+              "levelIndex": 0
+            }
+          ]
+        ],
+        "layerType": "polygon",
+        "mapped": true
+      },
+      {
+        "id": "93fcb64e-f530-44d1-8a96-c8eb28c7814b",
+        "name": "A05",
+        "levelIndex": 0,
+        "extras": {
+          "__lockMappingEdit": true
+        },
+        "coordinates": [
+          [
+            {
+              "x": 20.46,
+              "z": -12.51,
+              "levelIndex": 0
+            },
+            {
+              "x": 20.46,
+              "z": -8.74,
+              "levelIndex": 0
+            },
+            {
+              "x": 15.69,
+              "z": -8.74,
+              "levelIndex": 0
+            },
+            {
+              "x": 15.69,
+              "z": -8.816,
+              "levelIndex": 0
+            },
+            {
+              "x": 15.69,
+              "z": -12.434,
+              "levelIndex": 0
+            },
+            {
+              "x": 15.69,
+              "z": -12.51,
+              "levelIndex": 0
+            },
+            {
+              "x": 20.46,
+              "z": -12.51,
+              "levelIndex": 0
+            }
+          ]
+        ],
+        "layerType": "polygon",
+        "mapped": true
+      },
+      {
+        "id": "fe5d8106-a923-4f4d-a641-a9f9b95a9f14",
+        "name": "A04",
+        "levelIndex": 0,
+        "extras": {
+          "__lockMappingEdit": true
+        },
+        "coordinates": [
+          [
+            {
+              "x": 20.46,
+              "z": -16.22,
+              "levelIndex": 0
+            },
+            {
+              "x": 20.46,
+              "z": -12.51,
+              "levelIndex": 0
+            },
+            {
+              "x": 15.69,
+              "z": -12.51,
+              "levelIndex": 0
+            },
+            {
+              "x": 15.69,
+              "z": -12.594,
+              "levelIndex": 0
+            },
+            {
+              "x": 15.69,
+              "z": -16.22,
+              "levelIndex": 0
+            },
+            {
+              "x": 19.244,
+              "z": -16.22,
+              "levelIndex": 0
+            },
+            {
+              "x": 19.32,
+              "z": -16.22,
+              "levelIndex": 0
+            },
+            {
+              "x": 19.404,
+              "z": -16.22,
+              "levelIndex": 0
+            },
+            {
+              "x": 20.46,
+              "z": -16.22,
+              "levelIndex": 0
+            }
+          ]
+        ],
+        "layerType": "polygon",
+        "mapped": true
+      },
+      {
+        "id": "73f6a6b9-71ca-4b57-9758-b09556115ae7",
+        "name": "A03",
+        "levelIndex": 0,
+        "extras": {
+          "__lockMappingEdit": true
+        },
+        "coordinates": [
+          [
+            {
+              "x": 19.08,
+              "z": -2.05,
+              "levelIndex": 0
+            },
+            {
+              "x": 17.21,
+              "z": -2.05,
+              "levelIndex": 0
+            },
+            {
+              "x": 17.21,
+              "z": -3.75,
+              "levelIndex": 0
+            },
+            {
+              "x": 19.08,
+              "z": -3.75,
+              "levelIndex": 0
+            },
+            {
+              "x": 19.08,
+              "z": -2.05,
+              "levelIndex": 0
+            }
+          ]
+        ],
+        "layerType": "polygon",
+        "mapped": true
+      },
+      {
+        "id": "103482a7-4e69-4646-a222-ada1db837704",
+        "name": "A02",
+        "levelIndex": 0,
+        "extras": {
+          "__lockMappingEdit": true
+        },
+        "coordinates": [
+          [
+            {
+              "x": 20.46,
+              "z": -2.05,
+              "levelIndex": 0
+            },
+            {
+              "x": 19.08,
+              "z": -2.05,
+              "levelIndex": 0
+            },
+            {
+              "x": 19.08,
+              "z": -3.75,
+              "levelIndex": 0
+            },
+            {
+              "x": 19.08,
+              "z": -4.98,
+              "levelIndex": 0
+            },
+            {
+              "x": 20.46,
+              "z": -4.98,
+              "levelIndex": 0
+            },
+            {
+              "x": 20.46,
+              "z": -2.05,
+              "levelIndex": 0
+            }
+          ]
+        ],
+        "layerType": "polygon",
+        "mapped": true
+      },
+      {
+        "id": "88d12daf-2fc4-48a6-8cad-2862bee9214a",
+        "name": "A01",
+        "levelIndex": 0,
+        "extras": {
+          "__lockMappingEdit": true
+        },
+        "coordinates": [
+          [
+            {
+              "x": 20.46,
+              "z": -20.5,
+              "levelIndex": 0
+            },
+            {
+              "x": 20.46,
+              "z": -16.22,
+              "levelIndex": 0
+            },
+            {
+              "x": 19.404,
+              "z": -16.22,
+              "levelIndex": 0
+            },
+            {
+              "x": 19.32,
+              "z": -16.22,
+              "levelIndex": 0
+            },
+            {
+              "x": 19.32,
+              "z": -20.5,
+              "levelIndex": 0
+            },
+            {
+              "x": 20.46,
+              "z": -20.5,
+              "levelIndex": 0
+            }
+          ]
+        ],
+        "layerType": "polygon",
+        "mapped": true
+      }
+    ]
+  }
+]

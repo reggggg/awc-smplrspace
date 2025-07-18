@@ -10,3 +10,10 @@ export type TEvent = {
   slug: string,
   state: string
 }
+
+export type TBooth = {
+  id: number,
+  name: string,
+  booth_type: number,
+  slug: string
+}

@@ -6,7 +6,7 @@
     "assets": [
       {
         "id": "43f70b29-841c-4a1f-9dfe-498ec87f3695",
-        "name": "A08",
+        "name": "A62",
         "levelIndex": 0,
         "extras": {
           "__lockMappingEdit": true
@@ -95,7 +95,7 @@
       },
       {
         "id": "8aea707d-a0ab-4028-a78f-f0dd7c94a73c",
-        "name": "A07",
+        "name": "A61",
         "levelIndex": 0,
         "extras": {
           "__lockMappingEdit": true
@@ -144,7 +144,7 @@
       },
       {
         "id": "13fd6265-8e8b-4366-a385-89067c8a1bea",
-        "name": "A06",
+        "name": "A60",
         "levelIndex": 0,
         "extras": {
           "__lockMappingEdit": true
@@ -193,7 +193,7 @@
       },
       {
         "id": "93fcb64e-f530-44d1-8a96-c8eb28c7814b",
-        "name": "A05",
+        "name": "A59",
         "levelIndex": 0,
         "extras": {
           "__lockMappingEdit": true
@@ -242,7 +242,7 @@
       },
       {
         "id": "fe5d8106-a923-4f4d-a641-a9f9b95a9f14",
-        "name": "A04",
+        "name": "A58",
         "levelIndex": 0,
         "extras": {
           "__lockMappingEdit": true
@@ -301,7 +301,7 @@
       },
       {
         "id": "73f6a6b9-71ca-4b57-9758-b09556115ae7",
-        "name": "A03",
+        "name": "A57",
         "levelIndex": 0,
         "extras": {
           "__lockMappingEdit": true
@@ -340,7 +340,7 @@
       },
       {
         "id": "103482a7-4e69-4646-a222-ada1db837704",
-        "name": "A02",
+        "name": "A56",
         "levelIndex": 0,
         "extras": {
           "__lockMappingEdit": true
@@ -384,7 +384,7 @@
       },
       {
         "id": "88d12daf-2fc4-48a6-8cad-2862bee9214a",
-        "name": "A01",
+        "name": "A55",
         "levelIndex": 0,
         "extras": {
           "__lockMappingEdit": true

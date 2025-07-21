@@ -3,6 +3,7 @@ import { Outlet, createRootRouteWithContext } from '@tanstack/react-router'
 import { Link } from '@tanstack/react-router'
 import { Button } from '@/components/ui/button'
 import type { RouterContext } from '@/lib/types'
+import { Toaster } from 'sonner'
 
 export const Route = createRootRouteWithContext<RouterContext>()({
   component: RootComponent,
@@ -21,6 +22,7 @@ export const Route = createRootRouteWithContext<RouterContext>()({
 function RootComponent() {
   return (
     <Fragment>
+      <Toaster richColors />
       <Outlet />
     </Fragment>
   )

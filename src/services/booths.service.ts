@@ -1,5 +1,5 @@
 import { api } from "@/lib/client";
-import type { TBooth } from "@/lib/types";
+import type { TBooth, TBoothType } from "@/lib/types";
 
 export const fetchBooths = async ({ conference }: { conference: string }): Promise<TBooth[]> => {
   try {
@@ -12,3 +12,16 @@ export const fetchBooths = async ({ conference }: { conference: string }): Promi
     return []
   }
 }
+
+export const fetchBoothTypes = async ({ conference }: { conference: string }): Promise<TBoothType[]> => {
+  try {
+    return await api.get('booth_types', {
+      searchParams: {
+        conference
+      }
+    }).json<TBoothType[]>();
+  } catch {
+    return []
+  }
+}
+

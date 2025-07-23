@@ -26,5 +26,15 @@ export type TBoothType = {
   name: string,
   slug: string,
   price: number,
-  description: string
+  description: string,
+  ticket: number
+}
+
+export type TTicket = {
+  id: number,
+  name: string,
+  price: string
+  full_price: string,
+  type: string,
+  slug: string
 }

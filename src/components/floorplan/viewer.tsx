@@ -102,7 +102,9 @@ const Viewer = ({
       height: 2.9,
       onClick: (booth) => {
         if (booth.status !== BoothStatus.AVAILABLE) {
-          return toast.error(`Booth ${booth.name} is not available`);
+          return toast.error(`Booth ${booth.name} is not available`, {
+            position: 'top-center'
+          });
         }
         if (typeof selectEntity === 'function') {
           selectEntity(booth.name);
